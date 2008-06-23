@@ -8,7 +8,6 @@ WriteMakefile(
     VERSION_FROM  => 'lib/Net/Squid/Auth/Engine.pm',
     ABSTRACT_FROM => 'lib/Net/Squid/Auth/Engine.pm',
     EXE_FILES     => ['bin/squid-auth-engine'],
-    PL_FILES      => {},
     PREREQ_PM     => {
         'Test::More'                         => 0,
         'version'                            => 0.74,
