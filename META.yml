@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Net-Squid-Auth-Engine
-version:             0.01.02
+version:             0.01.03
 abstract:            External Credentials Authentication for Squid HTTP Cache
 license:             ~
 author:              
