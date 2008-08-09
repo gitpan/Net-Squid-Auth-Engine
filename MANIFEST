@@ -1,11 +1,11 @@
 bin/squid-auth-engine
+Build.PL
 Changes
 lib/Net/Squid/Auth/Engine.pm
-Makefile.PL
 MANIFEST
 README
 t/00-load.t
 t/boilerplate.t
 t/pod-coverage.t
 t/pod.t
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml
